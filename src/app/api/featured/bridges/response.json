@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "title": "High-Rise BIM Coordination",
+    "description": "A full BIM project involving clash detection, coordination, and drawing extraction for a 20-storey tower.",
+    "year": "",
+    "technologies": [
+      "Revit",
+      "Navisworks",
+      "AutoCAD"
+    ],
+    "thumbnail": "https://rec.theshubhamjha.com/project/upload/2.jpg",
+    "source": "https://rec.theshubhamjha.com/project/view.php?id=2",
+    "platform": "bridge"
+  }
+]
